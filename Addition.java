@@ -5,7 +5,4 @@ public class Addition
         int b = 20;
         System.out.println("Sum is :" + (a + b));
     }
-    public void m2(){
-        System.out.println("m2 is added");
-    }
 }
