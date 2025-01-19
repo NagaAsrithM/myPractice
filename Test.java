@@ -6,6 +6,7 @@ public class Test {
         System.out.println("Java");
         System.out.println("Test in Local Repo");
         System.out.println("Test");
+        System.out.println("Sum is : " + (2+3));
     }
 
 
